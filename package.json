@@ -1,0 +1,22 @@
+{
+    "name": "ulysses",
+    "displayName": "Ulysses",
+    "description": "An 80's sci-fi inspired theme",
+    "publisher": "GiuseppeZeraschi",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ulysses",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ulysses-color-theme.json"
+            }
+        ]
+    }
+}
