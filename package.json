@@ -10,6 +10,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "images/ulysses.jpg",
     "contributes": {
         "themes": [
             {
