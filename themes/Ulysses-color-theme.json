@@ -109,7 +109,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#FF0087"
+				"foreground": "#CB77FF"
 			}
 		},
 		{
@@ -119,7 +119,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#FF0087"
+				"foreground": "#CB77FF"
 			}
 		},
 		{
